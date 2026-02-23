@@ -9,3 +9,4 @@ Basic guidlines:
 . Explain commits using bullet points for distinct changes for optimal readablity.
 
 Thank you, and be sure to have fun!
+
